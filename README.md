@@ -1,3 +1,7 @@
+# Streaming-markdown-parser-solution [Img Ref.]
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/9d015ecc-52bf-4b65-9199-657bfdd3bc52" />
+
+# Formi
 # streaming-markdown-parser
 
 Please read this entire page.
